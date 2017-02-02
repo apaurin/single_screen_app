@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hotel Panorama</string>
+    <string name="picture">A nice night picture of a Panorama Hotel</string>
+    <string name="traditional">Traditional Dalmatian cuisine\nLeisure and entertainment</string>
+    <string name="sample_string">"Location: Sibenski most 1, Sibenik, Croatia\nOpen: 00:00 - 24:00, bar open: 07:00-23:00\nwww.hotel-panorama.hr\ninfo@hotel-panorama.hr\n+385 22 213 398"</string>
+    <string name="description">\"some test line 1 \\n some test line 2\"</string>
+</resources>
